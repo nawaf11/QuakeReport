@@ -8,5 +8,5 @@ Quake Report App
 This app gives Information(Magnitude,Location) about earthquakes that happend in last 48 hours <br> 
 the informations is provided by USGS API.
 
-Used in a Udacity course in the Beginning Android Nanodegree.
+Used in a Udacity course in the Beginning Android Nanodegree. (The Copyrights © Google Inc ) Read LICENSE	file.
 
